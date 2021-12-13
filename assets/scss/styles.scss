@@ -1,3 +1,7 @@
-.test {
-  color: black;
-}
+//include all your scss 's configuration here
+
+@import "base/bases";
+@import "components/component";
+@import "layouts/layouts";
+@import "form/form";
+@import "pages/pages";
